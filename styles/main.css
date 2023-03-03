@@ -1,0 +1,58 @@
+body{
+    background: #fa5d3e;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+    
+}
+.top{
+    display:flex;
+    flex-direction: row;
+    padding-bottom: 80px;
+    justify-content: center;
+
+}
+.image{
+    width:280px;
+    height:232px;
+    
+}
+.bookings{
+    background:  #fa5d3e;
+    border: 2px black solid;
+    width:700px
+    
+}
+.book{
+    font-size: 25px;
+    font-weight:bold;
+}
+.venues{
+    border:2px black solid;
+    width:200px;
+    height:300px;
+}
+
+.v{
+    padding-left: 10px;
+}
+
+.b{
+    padding-left: 10px;
+}
+.bands{
+    border:2px black solid;
+    width:200px;
+    height:300px;
+}
+.bottom{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.bb{
+    padding-left: 10px;
+}
